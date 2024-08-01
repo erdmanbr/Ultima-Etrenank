@@ -41,3 +41,6 @@
 
 !/Data/*
 !/bin/rosyln/*
+
+/Client
+ServUO.exe.config.bak
